@@ -57,5 +57,5 @@ Data Collection in German Language on Sewing Machine Operation for Video Questio
 		- `FPV`: FPV video as context
 		- `FPV_C`: FPV video with circle annotation for eye tracking as context
 		- `FPV_A`: FPV video with attention map for eye tracking as context
-    		- `text-only reference model`: textual instructions related to question as context
-        	- `multimodal reference model`: textual instructions related to question and FPV video as context
+                - `text-only reference model`: textual instructions related to question as context
+                - `multimodal reference model`: textual instructions related to question and FPV video as context
