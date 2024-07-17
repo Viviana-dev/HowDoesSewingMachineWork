@@ -52,9 +52,10 @@ Data Collection in German Language on Sewing Machine Operation for Video Questio
 	- Model generated answer (`gemini_answer`)
 	- Manual annotation whether model generated answer is acceptable (`gemini_acceptable`)
 	- Type of ablation setting used for prompts (`ablation setting`):
-		- `naive baseline`: not context beyond question
+		- `naive baseline`: no context beyond question
 		- `TPV`: TPV video as context
 		- `FPV`: FPV video as context
 		- `FPV_C`: FPV video with circle annotation for eye tracking as context
 		- `FPV_A`: FPV video with attention map for eye tracking as context
-
+    		- `text-only reference model`: textual instructions related to question as context
+        	- `multimodal reference model`: textual instructions related to question and FPV video as context
