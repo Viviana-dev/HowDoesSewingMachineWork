@@ -9,7 +9,7 @@ Data Collection in German Language on Sewing Machine Operation for Video Questio
 - Instructions about basics of sewing machine operation
 - 7 larger tasks split into 35 total sub-steps
 - Glossary of sewing machine terms
-- German and Englisch translation
+- German and English translation
 
 **[dataset.csv](dataset.csv):**
 
